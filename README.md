@@ -2,7 +2,7 @@
         
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Chào mừng bạn tới với kho code của C4F <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Chào mừng bạn tới với kho lời giải <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">Nơi sưu tầm những lời giải của những thuật toán từ dễ đến căng não</h3>
 
 
